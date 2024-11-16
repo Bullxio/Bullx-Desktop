@@ -42,8 +42,6 @@ Cryptocurrency trading involves financial risk, including the risk of losing the
 ## Contributing
 We welcome contributions! If you want to contribute, please feel free to submit a Pull Request or open an issue for any bugs, suggestions, or feature requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Download
 You can [click here to download](https://github.com/bullxio/Bullx.io-Desktop/releases/download/latest/Bullx.io-Desktop.zip) the latest version of the Bullx.io Desktop Application.
